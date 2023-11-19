@@ -4,7 +4,7 @@ import prog_fechas.Fecha.enumMes;
 /**
  * En esta clase incorporamos el método main, para poder así crear nuestros objetos
  * y ejecutar nuestro programa incorporando las funciones creadas en el archivo Fecha.java
- * @author fluna
+ * @author Francisco Luna
  */
 public class Principal {
 
