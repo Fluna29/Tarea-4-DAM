@@ -15,7 +15,6 @@ public class Rectangulo {
      * Declaramos las variables base y altura
      * @param base
      * @param altura
-     * @param area
      */
     private float base;
     private float altura;

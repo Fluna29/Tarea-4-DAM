@@ -1,4 +1,4 @@
-package com.prog04.principal;
+package com.prog04.Principal;
 import com.prog04.figuras.Rectangulo;
 
 /**
