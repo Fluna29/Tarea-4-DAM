@@ -40,7 +40,7 @@ public class Fecha {
      * @param mes
      * @param anio 
      */
-    public void fechas(int dia, enumMes mes, int anio){
+    public Fecha (int dia, enumMes mes, int anio){
         this.dia = dia;
         this.mes = mes;
         this.anio = anio;

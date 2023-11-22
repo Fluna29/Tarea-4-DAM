@@ -23,7 +23,7 @@ public class Principal {
      */
     public static void main (String[] args){
         //Creamos el primer objeto con el nombre "objFecha1"
-        prog_fechas.Fecha objFecha1 = new prog_fechas.Fecha();
+        prog_fechas.Fecha objFecha1 = new prog_fechas.Fecha(1, enumMes.Enero, 2001);
         //Aquí cambiamos los atributos del primer objeto
         objFecha1.setMes(enumMes.Febrero);
         objFecha1.setDia(20);
@@ -39,7 +39,7 @@ public class Principal {
         }
 
         //Creamos el segundo objeto con el nombre "objFecha2"
-        prog_fechas.Fecha objFecha2 = new prog_fechas.Fecha();
+        prog_fechas.Fecha objFecha2 = new prog_fechas.Fecha(21, enumMes.Diciembre, 2022);
         //Cambiamos los atributos del segundo objeto
         objFecha2.setMes(enumMes.Julio);
         objFecha2.setDia(15);
